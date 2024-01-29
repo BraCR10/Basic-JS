@@ -3,7 +3,7 @@
  * elementos sean numeros de 1 hasta N
  */
 
-let lenght=-1
+let lenght=1
 function arrayCreator(n){
     let newArr=[]
     while (n>0){//Se evita la validacion de que el num sea menor o igual que 0
